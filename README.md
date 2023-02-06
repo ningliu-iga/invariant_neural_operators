@@ -9,15 +9,14 @@ This repository houses the code for the following paper:
 - [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/)
 
 
-## Running experiments in the paper
+## Running experiments
 To run the 2nd example in the INO paper
 ```
 python3 ino_lps_circular.py
 ```
 
 ## Datasets
-We provide the linear peridynamic solids (LPS) and tissue datasets we used in the paper. The data generation can be found in the paper.
-The data are given in the form of matlab files, which can be loaded with the scripts provided in utils.py. 
+We provide the linear peridynamic solid (LPS) and tissue datasets that are used in the paper. The data generation can be found in the appendix of the paper. The data are given in the form of matlab files, which can be loaded using the scripts provided in utils.py. 
 
 - LPS dataset: see the data_linear_peridynamic_solid subfolder
 - [Tissue dataset](https://drive.google.com/drive/folders/1BQjPEDYRJv5VjZ_bTyK9OScPKVkcdt3y)
