@@ -1,4 +1,7 @@
 # Invariant Neural Operators
+
+![Translational and rotational invariance illustration.](https://github.com/ningliu-iga/invariant_neural_operators/blob/main/translational_and_rotational_invariance_illustration.png)
+
 This repository houses the code for the following paper:
 - [INO: Invariant Neural Operators for Learning Complex Physical Systems with Momentum Conservation](https://proceedings.mlr.press/v206/liu23f.html)
 
